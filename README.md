@@ -1,5 +1,3 @@
-# ws-config
-
 ## 界面设置
 
 >  关闭不必要的工具栏，侧边栏，面包屑导航等
@@ -8,11 +6,11 @@
 
 均可以在 Views 选项中关闭
 
-Views > Tool Bar 
+Views > Statu Bar
 
 Views > Tool Buttons
 
-Views > Statu Bar
+Views > Tool Bar 
 
 Views > Navigation Bar 
 
@@ -21,3 +19,9 @@ Views > Navigation Bar
 鼠标移动至 HTML 或 CSS 中某一行时，在文件上方会出现光标目前位置所处的层次，平时不怎么用。
 
 Preferences > **search** "breadcrumbs" > **close** 'Show breadcrumbs'
+
+### Tabs 栏
+
+可以在任意一个 Tab 上右键: 
+
+Tabs Placement > none
